@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  border-bottom: 1px solid gray;
+  margin: 0;
+  padding: 20px;
+}
+
+body{
+  margin: 0;
+}
+
+ul li{
+  list-style: none;
+}
+
+.bankSel .list {
+  display: table;
+}
+
+.bankSel .list li {
+  display: table-cell;
+  padding-right: 20px;
+}
